@@ -1,0 +1,16 @@
+﻿/* mycss.css*/
+
+
+body {
+   background-image:url(f_pic/papa.JPG);
+   background-repeat: repeat;
+   background-attachment: fixed;   
+   background-color:rgba(255,255,255,0.6);
+   background-blend-mode:lighten;
+   background-size:contain;
+
+   font-size: 32px;
+   text-align: left;
+   line-height: 50px;   
+   }
+

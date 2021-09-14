@@ -1,0 +1,18 @@
+﻿/* mycss.css*/
+
+
+body {
+   background-image:url(pic/family.jpg);
+   background-repeat: repeat;
+   background-attachment: fixed;   
+   background-color:rgba(255,255,255,0.6);
+   background-blend-mode:lighten;
+   background-size:contain;
+   width:100%;
+   height:100%;
+
+   font-size: 32px;
+   text-align: center;
+   line-height: 500px;   
+   }
+
